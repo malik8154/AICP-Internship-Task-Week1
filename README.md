@@ -27,9 +27,3 @@ In this task, I explored NumPy fundamentals by solving a set of exercises rangin
 - **Library:** NumPy
 
 ---
-
-## 🚀 How to Run
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/malik8154/AICP-Internship-Week1-NumPy-Exercises.git
-   cd AICP-Internship-Week1-NumPy-Exercises
